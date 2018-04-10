@@ -16,3 +16,18 @@
 
 **Link(s) to work** : https://www.coursera.org/learn/machine-learning/programming/8f3qT/linear-regression/submission
 
+### Day 3: April 9th, 2018, Monday
+
+**Today's Progress**:  Feature normalization and Normal Equation for Linear regression with multiple variables, Second part of the ML assignment.
+
+**Thoughts** : ML is not so easy.
+
+**Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex1/ex1
+
+### Day 4: April 10th, 2018, Teusday
+
+**Today's Progress**:  Logistic/Classification regression. Learned, not coded. Set up Angular project, since no coding in ML.
+
+**Thoughts** : Overwhelmed with all the equations in ML.
+
+**Link(s) to work** : coming soon...
