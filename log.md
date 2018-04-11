@@ -31,3 +31,11 @@
 **Thoughts** : Overwhelmed with all the equations in ML.
 
 **Link(s) to work** : coming soon...
+
+### Day 5: April 11th, 2018, Wednesday
+
+**Today's Progress**:  Assignment in logistic regression and regularised logistic regression.
+
+**Thoughts** : Aaaarrggghh! Too much info in very little time. I'll probably go through notes tomorrow. Things are not sinking in completely. 
+
+**Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex2/ex2
