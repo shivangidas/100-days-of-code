@@ -32,7 +32,7 @@
 
 **Link(s) to work** : coming soon...
 
-### Day 4: April 11th, 2018, Wednesday
+### Day 5: April 11th, 2018, Wednesday
 
 **Today's Progress**:  Assignment in logistic regression and regularised logistic regression.
 
