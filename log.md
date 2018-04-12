@@ -39,3 +39,11 @@
 **Thoughts** : Aaaarrggghh! Too much info in very little time. I'll probably go through notes tomorrow. Things are not sinking in completely. 
 
 **Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex2/ex2
+
+### Day 6: April 12th, 2018, Thursday
+
+**Today's Progress**:  In ML, watched a video on neural network. No coding involved, hence worked a little with angular-cli. Fun fact: serve app on '0.0.0.0' instead of 'localhost', then use your IP address to run it on your phone. We have a mobile app now! 
+
+**Thoughts** : Angular has TypeScript, it's not javascript.
+
+**Link(s) to work** : https://github.com/shivangidas/MEAN_App
