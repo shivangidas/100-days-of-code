@@ -55,3 +55,19 @@
 **Thoughts** : I love how cool that sounds. Okay, to be honest the assignment was providing all data and making things work.
 
 **Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex3/ex3
+
+### Day 8: April 14th, 2018, Saturday
+
+**Today's Progress**:  Fell asleep watching #NeuralNetworks lecture, made progress with #Angular 
+
+**Thoughts** : Angular's two way binding is insane!
+
+**Link(s) to work** : https://github.com/shivangidas/MEAN_App
+
+### Day 9: April 15th, 2018, Sunday
+
+**Today's Progress**:  Tried Routing with Angular. Nothing in ML though, feels like a cheat day.
+
+**Thoughts** : Maybe Angular is a good choice for the project at my workplace.
+
+**Link(s) to work** : https://github.com/shivangidas/MEAN_App
