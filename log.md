@@ -71,3 +71,19 @@
 **Thoughts** : Maybe Angular is a good choice for the project at my workplace.
 
 **Link(s) to work** : https://github.com/shivangidas/MEAN_App
+
+### Day 10: April 16th, 2018, Monday
+
+**Today's Progress**:  Completed week 5 assignment in neural networks.
+
+**Thoughts** : I have got to revise.
+
+**Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex4/ex4
+
+### Day 9: April 17th, 2018, Tuesday
+
+**Today's Progress**:  More Routing with Angular. Nothing in ML.
+
+**Thoughts** : It feels cool. Looking forward to HTTP.
+
+**Link(s) to work** : https://github.com/shivangidas/MEAN_App
