@@ -80,10 +80,18 @@
 
 **Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex4/ex4
 
-### Day 9: April 17th, 2018, Tuesday
+### Day 11: April 17th, 2018, Tuesday
 
 **Today's Progress**:  More Routing with Angular. Nothing in ML.
 
 **Thoughts** : It feels cool. Looking forward to HTTP.
+
+**Link(s) to work** : https://github.com/shivangidas/MEAN_App
+
+### Day 12: April 18th, 2018, Wednesday
+
+**Today's Progress**:  Http in angular. Watched a couple ML videos.
+
+**Thoughts** : Commit a bug so you have something to look forward to.
 
 **Link(s) to work** : https://github.com/shivangidas/MEAN_App
