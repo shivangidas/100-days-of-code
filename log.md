@@ -95,3 +95,11 @@
 **Thoughts** : Commit a bug so you have something to look forward to.
 
 **Link(s) to work** : https://github.com/shivangidas/MEAN_App
+
+### Day 13: April 19th, 2018, Thursday
+
+**Today's Progress**: Watched a couple ML videos. Got completly entangled in MySQL
+
+**Thoughts** : MySQL is killing me
+
+**Link(s) to work** : Coming soon...
