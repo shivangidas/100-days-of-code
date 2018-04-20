@@ -103,3 +103,11 @@
 **Thoughts** : MySQL is killing me
 
 **Link(s) to work** : Coming soon...
+
+### Day 14: April 20th, 2018, Friday
+
+**Today's Progress**:  Completed week 6 assignment in ML.
+
+**Thoughts** : This is fun.
+
+**Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex5/ex5
