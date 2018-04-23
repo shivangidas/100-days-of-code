@@ -111,3 +111,27 @@
 **Thoughts** : This is fun.
 
 **Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex5/ex5
+
+### Day 15: April 21st, 2018, Saturday
+
+**Today's Progress**:  Completed week 6 in ML. Set up mysql on my system.
+
+**Thoughts** : I love it when it turns out the bug was a typo.
+
+**Link(s) to work** : ...
+
+### Day 16: April 22nd, 2018, Sunday
+
+**Today's Progress**:  Learned connecting MEAN stack components
+
+**Thoughts** : Time to build something real and fun and needed.
+
+**Link(s) to work** : ...
+
+### Day 17: April 23rd, 2018, Monday
+
+**Today's Progress**:  Idea generation. Brainstorming architecture design.
+
+**Thoughts** : Oh I'm loving this
+
+**Link(s) to work** : coming really soon...
