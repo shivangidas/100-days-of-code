@@ -135,3 +135,11 @@
 **Thoughts** : Oh I'm loving this
 
 **Link(s) to work** : coming really soon...
+
+### Day 18: April 25th, 2018, Tuesday
+
+**Today's Progress**:  Completed week 7 assignment in ML.
+
+**Thoughts** : I made a spam classifier!? Woah!
+
+**Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex6/ex6
