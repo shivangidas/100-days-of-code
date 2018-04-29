@@ -143,3 +143,45 @@
 **Thoughts** : I made a spam classifier!? Woah!
 
 **Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex6/ex6
+
+### Day 19
+
+**Today's Progress**:  learned about K-mean algorithm. 
+
+**Thoughts** : Unsupervised learning seems fun.
+
+**Link(s) to work** : 
+
+### Day 20
+
+**Today's Progress**:  Discussed Machine Learning with a friend
+
+**Thoughts** : 
+
+**Link(s) to work** : 
+
+### Day 21
+
+**Today's Progress**:  learned principal component analysis and completed assignment 7
+
+**Thoughts** : 
+
+**Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex7/ex7
+
+### Day 22
+
+**Today's Progress**:  learned about anomaly detection and content based recommendations
+
+**Thoughts** : Unsupervised learning still seems fun.
+
+**Link(s) to work** : 
+
+### Day 23
+
+**Today's Progress**:  Learned more about collaborative filtering and completed assignment 8
+
+**Thoughts** : This one was really fun. I got to make movie recommendations based on previous ratings
+
+**Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex8/ex8
+
+
