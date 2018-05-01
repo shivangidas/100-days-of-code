@@ -184,4 +184,18 @@
 
 **Link(s) to work** : https://github.com/shivangidas/100-days-of-code/tree/master/machine-learning-ex8/ex8
 
+### Day 24
 
+**Today's Progress**:  Completed ML course on coursera. Learned about stochastic and mini-batch gradient descent and photo ocr and map reduce and online learning
+
+**Thoughts** : Woah! There's so much more to study. 
+
+**Link(s) to work** :
+
+### Day 25
+
+**Today's Progress**:  Started Python
+
+**Thoughts** : Actually started deep learning but realised that I need to know python
+
+**Link(s) to work** :
