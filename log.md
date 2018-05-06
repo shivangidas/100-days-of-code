@@ -199,3 +199,35 @@
 **Thoughts** : Actually started deep learning but realised that I need to know python
 
 **Link(s) to work** :
+
+### Day 26
+
+**Today's Progress**:  Learned more Python
+
+**Thoughts** : Pip is the package manager for python!
+
+**Link(s) to work** :
+
+### Day 27
+
+**Today's Progress**:  More Python
+
+**Thoughts** : It's cool
+
+**Link(s) to work** :
+
+### Day 28
+
+**Today's Progress**:  Started Deep Learning course on coursera
+
+**Thoughts** : It's not free. Is it worth buying?
+
+**Link(s) to work** :
+
+### Day 29
+
+**Today's Progress**:  Learned to use numpy
+
+**Thoughts** : 
+
+**Link(s) to work** :
